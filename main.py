@@ -10,7 +10,7 @@ app = FastAPI()
 model = YOLO("best.pt")
 
 
-ConstellationsPtBr = ["Aquário", "Áries", "Câncer", "Capricórnio", "Gêmios", "Leão",
+ConstellationsPtBr = ["Aquário", "Áries", "Câncer", "Capricórnio", "Gêmeos", "Leão",
                       "Libra", "Peixes", "Sargitário", "Escorpião", "Touro", "Virgem"]
 
 
